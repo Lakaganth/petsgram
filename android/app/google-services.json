@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295081423400",
+    "firebase_url": "https://fluttershare-659bf.firebaseio.com",
+    "project_id": "fluttershare-659bf",
+    "storage_bucket": "fluttershare-659bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295081423400:android:c4e746ded0b3ac03c3bb1d",
+        "android_client_info": {
+          "package_name": "com.lakshmimohan.petsgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295081423400-rg3lk9421dl5nm1n7sfcl99m107fl5ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lakshmimohan.petsgram",
+            "certificate_hash": "a8aacba5f44ec67c4cec1ab9b3d9a113cabba5ef"
+          }
+        },
+        {
+          "client_id": "295081423400-r0pteiul5u302qc686af901ref46gtrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZA8RwEw23QLkbuKgGbefoOLicj-empg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295081423400-r0pteiul5u302qc686af901ref46gtrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
